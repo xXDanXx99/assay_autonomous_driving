@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  20 MAR 2023 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  22 MAR 2023 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,7 +150,8 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box53
 )
-No file autonomousDriving.aux.
+(C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbung\Aufsatz\Document
+\assay_autonomous_driving\latex\build\autonomousDriving.aux)
 \openout1 = `autonomousDriving.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -167,28 +168,37 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--23
+
+ []
+
 [1
 
 {C:/Users/z003sbpz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+[2]
 (C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbung\Aufsatz\Document
 \assay_autonomous_driving\latex\build\autonomousDriving.aux) ) 
 Here is how much of TeX's memory you used:
- 2991 strings out of 476339
- 46832 string characters out of 5786703
- 1849340 words of memory out of 5000000
- 23442 multiletter control sequences out of 15000+600000
- 513385 words of font info for 34 fonts, out of 8000000 for 9000
+ 2993 strings out of 476339
+ 47106 string characters out of 5786703
+ 1862340 words of memory out of 5000000
+ 23443 multiletter control sequences out of 15000+600000
+ 513050 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,5n,62p,236b,127s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,5n,62p,1355b,144s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\z003sb
-pz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Use
-rs\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk
->
+pz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
 Output written on "C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbun
 g\Aufsatz\Document\assay_autonomous_driving\latex\build\autonomousDriving.pdf" 
-(1 page, 2341 bytes).
+(2 pages, 27429 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
