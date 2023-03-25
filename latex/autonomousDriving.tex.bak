@@ -1,13 +1,18 @@
 \documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
-\usepackage[german]{babel}
+\usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
 \usepackage{amsfonts}
+\usepackage{geometry}
 \usepackage{amssymb}
 \author{Daniel Ehrenstraßer}
 \title{To Do}
+\geometry{
+	left=3cm,
+	textwidth=15cm}
 \begin{document}
+\twocolumn
 \noindent
 Wer sich aktuell mit den neusten Entwicklungen auf dem Fahrzeugmarkt auseinandersetzt wird ohne großen zeitlichen Aufwand erkennen: Autonomes Fahren ist das Fokusgiebiet der Autobauer weltweit. Dabei lagen deutsche Riesen wie VW, BMW oder Mercedes lange hinter ihren amerikanischen Kontrahänten wie Wymo oder Tesla zurück. Allerdings scheint sich der technische Vorsprung Schritt für Schritt zu verringern und auch in Deutschland sind die Tests für autonome Fahrzeuge mittlerweile in vollem Gange. Nichtsdestotrotz lassen Unfälle, wie sie sich vor allem im Zusammenhang mit Tesla Fahrzeugen im Vertrauen auf dessen "Autopilot"-Funktion ereigneten, durchaus Zweifel am aktuellen Stand der Technik und der generellen Machbarkeit des autonomen Fahrens laut werden. Deshalb soll im Folgenden ein kurzer Überblick über die noch zu überwindendenen Hürden auf dem Weg zum vollständig autonomen Fahrzeug gegeben werden.
 \\
@@ -20,4 +25,50 @@ Aus technischer Sicht ist nun zu Beginn vor allem die immense Datenmenge die bei
 Zusätzlich ist auch die Zuverlässigkeit der Sensoren bei extremeren Wetterlagen ein Flaschenhals bei der Entwicklung autonomer Fahrzeuge. Im Falle von Starkregen, Nebel oder Schnee ist die erwähnte Sensorik durchaus störanfällig, was im Kontext eines autonomen Fahrzeugs natürlich folgenschwere Fehler nach sich ziehen kann.  Ist es bei einem Fahrzeug der Stufe drei oder vier noch vertretbar die Kontrolle in diesem Fall wieder zurück an den Fahrer zu geben. So entfällt diese Option bei Fahrzeugen der Stufe 5 aufgrund des Mangels eines Fahrers. Deshalb sind für diese Art von Fahrzeug Sensoren nötig die auch bei extremen Wetterlagen weiterhin zuverlässig arbeiten.
 \\
 Des Weiteren ist für den Aufbau eines autonomen Straßennetzes auch die Kommunikation der Verkehrsteilnehmer untereinander von Nöten. Zwar gibt es dafür bereits erste Versuche beispielsweise VWs "Car-To-X"-Technologie, allerdings ergeben sich auch aus dieser Forderung Probleme. Zum einen müssten zunächst alle Verkehrsteilnehmer mit dieser Technologie ausgestattet werden, was sich als ein durchaus langwieriger Prozess herausstellt wenn man bedenkt das autonome Fahrzeuge der Schätzung von Experten entsprechend im Jahre 2050 erst eine Marktdurchdringung von 70 Prozent erreichen werden. Zum anderen ergeben sich aus dieser Form von Konnektivität und Offenheit zwischen den Verkehrsteilnehmern ganz neue Gefahren was die Cyberkriminalität betrifft. Ein Fahrzeug das sich theoretisch hacken und fernsteuern lässt kann dann schnell zur Waffe werden. Auch in diesem Bereich sind daher zuverlässige Lösungs- und Sicherheitsmechanismen notwendig. 
+\\
+\\
+Neben diesen zunächst rein technischen Problemen existieren auch abseits der Technik noch offene Fragen die geklärt werden müssen. Zwar wurden zumindest in Deutschland mit der Verabschiedung von Gesetzen zum autonomen Fahren im Mai 2021 (?) die Weichen dafür aus rechtlicher Sicht gestellt, allerdings ist autonomes Fahren auch immer aus ethischen Gesichtspunkten zu betrachten. So müssen Vorschriften für das Verhalten der Fahrzeuge in Extremsituationen entwickelt werden, die ethisch und moralisch vertretbar sind. Es ist ein Leichtes sich Situationen vorzustellen in denen das Fahrzeug beispielsweise zwischen dem Erfassen einer alten Dame, die die Straße überquert oder einem Kind, das unerwartet zwischen parkenden Autos hervorspringt entscheiden muss. Zwar scheint die Entscheidung aus utilitaristischer Sicht einfach und die meisten würden wahrscheinlich zustimmen, dass im Extremfall natürlich das Leben des Kindes zu verschonen wäre. Nichtsdestotrotz würde das Opfern der alten Dame damit zum Einen im Widerspruch zum ersten Artikel des deutschen Grundgesetzes, wonach die "Würde des Menschen unantastbar" ist. Zum Anderen wäre dies auch eine Form von Diskriminierung, was sich in Summe auch wenig mit der deutschen Rechtssprechung verbinden ließe. Ein rein zufällige Entscheidung zwischen beiden Optionen wirkt auf der anderen Seite wie Willkür und ist damit auch wenig überzeugend. 
+\\
+Auch ist in diesem Zusammenhang die Priorität der Insassen des Fahrzeugs von zentraler Bedeutung. Wie soll sich das Fahrzeug verhalten wenn in Notsituationen Schlimmeres nur durch das opfern des Fahrzeugführers verhindert werden kann? Ist ein Fahrzeug das im Extremfall den Fahrer opfert überhaupt von Interesse von Verbrauchern? Auf all diese Fragen müssen die Ingenieure und Entwickler von autonomen Fahrzeugen Antworten finden, was in Summe verdeutlicht, dass die Einführung autonomer Fahrzeuge mehr ist als nur eine technische Neuerung.
+\\
+\\
+Ein letzter zentraler Punkt, der eng mit dem vorherigen Abschnitt zusammenhängt ist die gesellschaftliche Akzeptanz von autonomen Fahrzeugen. So lassen sich autonome Fahrzeuge nur dann auf dem Markt platzieren, wenn in Summe auch genügend Personen auf diese Technik vertrauen. Allerdings ist muss man sich hier immer vor Augen führen, dass auch die ausgereifteste Technik nie gänzlich fehlerfrei sein wird. Zwar würden sich in ferner Zukunft die Anzahl der Unfälle, der Verkehrstoten und Verletzten durch die flächendeckende Nutzung autonomer Fahrzeuge drastisch reduzieren lassen. Doch es bleibt trotzdem die Frage ob eine Gesellschaft 
+\\
+\\
+Schlussendlich wird dieser letzte Punkt über Erfolg und Versagen der Technologie "autonomes Fahren" entscheiden. Die Vergangenheit zeigt, dass das Lösen von technischen Problemen oft nur eine Frage der Zeit ist und auch ethische Gesichtspunkte werden irgendwann in vertretbarer Weise in die Algorithmen solcher Fahrzeuge integriert sein. Die alles entscheidende Frage ist dann: Zieht eine Gesellschaft 100 Tote durch Fehler einer künstlichen Intelligenz 1000 Toten durch menschliches Versagen vor und wenn ja, wie viel Zeit wird bis dahin vergehen? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \end{document}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  22 MAR 2023 09:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  25 MAR 2023 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -46,21 +46,21 @@ Package: babel 2023/02/13 3.86 The Babel package
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.
-ldf
-Language: german 2021/02/27 v2.13 German support for babel (pre-1996 orthograph
-y)
-
-(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman
 .ldf
-Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
-hy)
-Package babel Info: Making " an active character on input line 139.
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman
+b.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
 )))
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\ba
-bel-german.tex
-Package babel Info: Importing font and identification data for german
-(babel)             from babel-de-1901.ini. Reported on input line 25.
+bel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
 )
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -141,40 +141,118 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+) (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks24
+
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count273
+\l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box53
 )
 (C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbung\Aufsatz\Document
 \assay_autonomous_driving\latex\build\autonomousDriving.aux)
 \openout1 = `autonomousDriving.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--23
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--38
 
  []
 
@@ -185,20 +263,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--23
 (C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbung\Aufsatz\Document
 \assay_autonomous_driving\latex\build\autonomousDriving.aux) ) 
 Here is how much of TeX's memory you used:
- 2993 strings out of 476339
- 47106 string characters out of 5786703
- 1862340 words of memory out of 5000000
- 23443 multiletter control sequences out of 15000+600000
+ 3583 strings out of 476339
+ 56974 string characters out of 5786703
+ 1867340 words of memory out of 5000000
+ 24016 multiletter control sequences out of 15000+600000
  513050 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,5n,62p,1355b,144s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,62p,1457b,146s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\z003sb
 pz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk>
 Output written on "C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbun
 g\Aufsatz\Document\assay_autonomous_driving\latex\build\autonomousDriving.pdf" 
-(2 pages, 27429 bytes).
+(2 pages, 32386 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
