@@ -1,8 +1,9 @@
-@Article{Test,
-  author  = {Daniel Ehrenstrasser},
-  journal = {Magazin für Tests},
-  title   = {Das ist ein Test},
-  year    = {2023},
+@Online{5Stages,
+  author  = {ADAC e.V.},
+  date    = {2023-04-02},
+  title   = {Autonomes Fahren: Die 5 Stufen zum selbst fahrenden Auto},
+  url     = {https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/grundlagen/autonomes-fahren-5-stufen/},
+  urldate = {2021-07-15},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

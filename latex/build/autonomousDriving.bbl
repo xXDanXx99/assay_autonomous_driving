@@ -18,28 +18,119 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
-    \entry{Test}{article}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{StandAutonomesFahren}{online}{}
       \name{author}{1}{}{%
-        {{hash=a8fc3275281fa97ba71bce100d23bf2d}{%
-           family={Ehrenstrasser},
-           familyi={E\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
+        {{hash=cda5db750716905df580fdfbc4cb06fd}{%
+           family={Wolfgang\bibnamedelima Rudschies},
+           familyi={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Thomas\bibnamedelima Kroher},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
       }
-      \strng{namehash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \strng{fullhash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \strng{bibnamehash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \strng{authorbibnamehash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \strng{authornamehash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \strng{authorfullhash}{a8fc3275281fa97ba71bce100d23bf2d}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \list{organization}{1}{%
+        {ADAC e.V}%
+      }
+      \strng{namehash}{cda5db750716905df580fdfbc4cb06fd}
+      \strng{fullhash}{cda5db750716905df580fdfbc4cb06fd}
+      \strng{bibnamehash}{cda5db750716905df580fdfbc4cb06fd}
+      \strng{authorbibnamehash}{cda5db750716905df580fdfbc4cb06fd}
+      \strng{authornamehash}{cda5db750716905df580fdfbc4cb06fd}
+      \strng{authorfullhash}{cda5db750716905df580fdfbc4cb06fd}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Magazin für Tests}
-      \field{title}{Das ist ein Test}
+      \field{day}{29}
+      \field{month}{3}
+      \field{title}{Autonomes Fahren: So fahren wir in Zukunft}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
       \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/technik-vernetzung/aktuelle-technik/
+      \endverb
+      \verb{url}
+      \verb https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/technik-vernetzung/aktuelle-technik/
+      \endverb
+    \endentry
+    \entry{5Stages}{online}{}
+      \name{author}{1}{}{%
+        {{hash=3268dac8026c82187a58bb391f458ece}{%
+           family={Paulsen},
+           familyi={P\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ADAC e.V.}%
+      }
+      \strng{namehash}{3268dac8026c82187a58bb391f458ece}
+      \strng{fullhash}{3268dac8026c82187a58bb391f458ece}
+      \strng{bibnamehash}{3268dac8026c82187a58bb391f458ece}
+      \strng{authorbibnamehash}{3268dac8026c82187a58bb391f458ece}
+      \strng{authornamehash}{3268dac8026c82187a58bb391f458ece}
+      \strng{authorfullhash}{3268dac8026c82187a58bb391f458ece}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{7}
+      \field{title}{Autonomes Fahren: Die 5 Stufen zum selbst fahrenden Auto}
+      \field{urlday}{2}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/grundlagen/autonomes-fahren-5-stufen/
+      \endverb
+      \verb{url}
+      \verb https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/grundlagen/autonomes-fahren-5-stufen/
+      \endverb
+    \endentry
+    \entry{EthikBericht}{report}{}
+      \name{author}{1}{}{%
+        {{hash=f4cae3a7eb1413ae40b361a6f99b7060}{%
+           family={Verkehr\bibnamedelimb und\bibnamedelimb digitale\bibnamedelima Infrastruktur},
+           familyi={V\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Bundesministerium},
+           giveni={B\bibinitperiod},
+           prefix={für},
+           prefixi={f\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Bundesministerium für Verkehr und digitale Infrastruktur}%
+      }
+      \strng{namehash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \strng{fullhash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \strng{bibnamehash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \strng{authorbibnamehash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \strng{authornamehash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \strng{authorfullhash}{f4cae3a7eb1413ae40b361a6f99b7060}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{6}
+      \field{title}{Bericht der Ethik-Kommission}
+      \field{urlday}{4}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://bmdv.bund.de/goto?id=348344
+      \endverb
+      \verb{url}
+      \verb https://bmdv.bund.de/goto?id=348344
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

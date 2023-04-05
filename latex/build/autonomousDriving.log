@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  1 APR 2023 17:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.2.25)  5 APR 2023 15:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -554,45 +554,51 @@ Package biblatex Info: ... file 'autonomousDriving.bbl' found.
 \assay_autonomous_driving\latex\build\autonomousDriving.bbl)
 Package biblatex Info: Reference section=0 on input line 14.
 Package biblatex Info: Reference segment=0 on input line 14.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 
 
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 
 
 (C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
+Underfull \hbox (badness 10000) in paragraph at lines 22--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
+Underfull \hbox (badness 10000) in paragraph at lines 22--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
+Underfull \hbox (badness 10000) in paragraph at lines 22--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
+Underfull \hbox (badness 10000) in paragraph at lines 22--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--44
+Underfull \hbox (badness 10000) in paragraph at lines 22--45
 
  []
 
 [1
 
 {C:/Users/z003sbpz/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
+6.
+
+(C:\Users\z003sbpz\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
 [2] [3]
 (C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbung\Aufsatz\Document
 \assay_autonomous_driving\latex\build\autonomousDriving.aux)
@@ -601,23 +607,25 @@ Package logreq Info: Writing requests to 'autonomousDriving.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11620 strings out of 476339
- 217435 string characters out of 5786703
+ 11659 strings out of 476339
+ 218523 string characters out of 5786703
  1868340 words of memory out of 5000000
- 31947 multiletter control sequences out of 15000+600000
- 520687 words of font info for 55 fonts, out of 8000000 for 9000
+ 31976 multiletter control sequences out of 15000+600000
+ 523372 words of font info for 65 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 63i,5n,68p,1451b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,5n,68p,1411b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-cti1000.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi600\ecbx1440.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
-nappen/ec/dpi600\ecrm1000.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+ctt1000.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\eccc1000.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecti1000.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\z003sbpz\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\z003sbpz\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
 Output written on "C:\UserData\z003sbpz\OneDrive - Siemens AG\05_HR\TUMBewerbun
 g\Aufsatz\Document\assay_autonomous_driving\latex\build\autonomousDriving.pdf" 
-(3 pages, 50510 bytes).
+(3 pages, 67645 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
+ 203 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

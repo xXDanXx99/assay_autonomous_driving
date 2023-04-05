@@ -1,8 +1,28 @@
-@Article{Test,
-  author  = {Daniel Ehrenstrasser},
-  journal = {Magazin für Tests},
-  title   = {Das ist ein Test},
-  year    = {2023},
+@Online{5Stages,
+  author       = {Thomas Paulsen},
+  date         = {2021-07-15},
+  title        = {Autonomes Fahren: Die 5 Stufen zum selbst fahrenden Auto},
+  url          = {https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/grundlagen/autonomes-fahren-5-stufen/},
+  organization = {ADAC e.V.},
+  urldate      = {2023-04-02},
+}
+
+@Online{StandAutonomesFahren,
+  author       = {Wolfgang Rudschies, Thomas Kroher},
+  date         = {2023-03-29},
+  title        = {Autonomes Fahren: So fahren wir in Zukunft},
+  url          = {https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/autonomes-fahren/technik-vernetzung/aktuelle-technik/},
+  organization = {ADAC e.V},
+  urldate      = {2023-04-02},
+}
+
+@Report{EthikBericht,
+  author      = {Bundesministerium für Verkehr und digitale Infrastruktur},
+  date        = {2017-06-20},
+  institution = {Bundesministerium für Verkehr und digitale Infrastruktur},
+  title       = {Bericht der Ethik-Kommission},
+  url         = {https://bmdv.bund.de/goto?id=348344},
+  urldate     = {2023-04-04},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
